@@ -1,0 +1,20 @@
+Big Update for ice tag!
+We have some important news about how ice tag works behind the scenes. For a long time, we used a system called OculusXR to make the game run on Meta Quest headsets. It helped us build the frozen world you play in today!
+
+Moving to OpenXR
+We are now switching the Meta Quest version of the game to OpenXR. Think of this like a "universal translator" for VR. It makes it easier for us to add cool new features and keeps the game running smoothly as technology changes.
+
+What about SteamVR?
+If you play on a PC using SteamVR, don't worry! Nothing is changing for you yet.
+
+SteamVR builds will keep using the OpenVR system.
+
+This will stay the same until 2028.
+
+
+Important: Quest 1 Support
+Because of this switch to OpenXR, ice tag will no longer run on the original Meta Quest 1 headset.
+
+The Quest 1 uses older technology that cannot keep up with these new updates. To keep playing the game on a Meta Quest headset, you will need to use a Quest 2, Quest 3, or Quest Pro.
+
+You can jump back into the ice arena on those devices or SteamVR right now!
