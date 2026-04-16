@@ -1,20 +1,11 @@
-Big Update for ice tag!
-We have some important news about how ice tag works behind the scenes. For a long time, we used a system called OculusXR to make the game run on Meta Quest headsets. It helped us build the frozen world you play in today!
+Ice Tag Gets a Realism Boost with New Shader
 
-Moving to OpenXR
-We are now switching the Meta Quest version of the game to OpenXR. Think of this like a "universal translator" for VR. It makes it easier for us to add cool new features and keeps the game running smoothly as technology changes.
+Ice Tag just got a major visual upgrade thanks to a new custom shader developed by Ice Labs LLC.
 
-What about SteamVR?
-If you play on a PC using SteamVR, don't worry! Nothing is changing for you yet.
+This shader makes ice look more realistic than ever, with dynamic reflections, detailed textures, and lighting that reacts naturally as you move. Surfaces now show subtle imperfections like scratches and frost, bringing the environment to life.
 
-SteamVR builds will keep using the OpenVR system.
+Even better, it’s optimized for smooth performance, so the game looks sharper without sacrificing speed.
 
-This will stay the same until 2028.
+This update isn’t just about visuals—it improves how players read and move through the game, making every slide and tag feel more precise.
 
-
-Important: Quest 1 Support
-Because of this switch to OpenXR, ice tag will no longer run on the original Meta Quest 1 headset.
-
-The Quest 1 uses older technology that cannot keep up with these new updates. To keep playing the game on a Meta Quest headset, you will need to use a Quest 2, Quest 3, or Quest Pro.
-
-You can jump back into the ice arena on those devices or SteamVR right now!
+And this is just the beginning—Ice Labs has more improvements on the way.
